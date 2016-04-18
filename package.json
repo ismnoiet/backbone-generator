@@ -1,0 +1,35 @@
+{
+  "name": "backbone-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "backbone-generator": "bin/backbone-generator/"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ismnoiet/backbone-generator"
+  },
+  "keywords": [
+    "backbone",
+    "generator",
+    "model",
+    "collection",
+    "javascript",
+    "js"
+  ],
+  "author": "ismnoiet <ismnoiet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismnoiet/backbone-generator/issues"
+  },
+  "homepage": "https://github.com/ismnoiet/backbone-generator",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "js-beautify": "^1.6.2",
+    "lodash": "^4.10.0"
+  }
+}
